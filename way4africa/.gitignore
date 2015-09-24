@@ -1,0 +1,24 @@
+.__INCLUDE_VERSION__
+.redirect_email
+.base_url
+.customer
+apple-touch-icon.png
+favicon.ico
+tags
+.tags
+.DS_Store
+.tags_sorted_by_file
+._.DS_Store
+svn-ignore.txt
+.db
+*.swp
+.todo
+._*
+.branch
+.environment
+node_modules/*
+common/css/compiled/*
+
+# Ignore everything in data directories, but not README.txt
+data/*/*
+!README.txt
