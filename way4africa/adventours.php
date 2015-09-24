@@ -114,7 +114,9 @@
 			</section> -->
 		</div> <!-- end of content container -->
 		<div class="bottom"></div>
-     <?php include('common/includes/footer.php'); ?>
+	<footer>
+		&#169; Copyright 2014 - Way 4 Africa - All Rights Reserved.
+	</footer>
 
 	</div>
 </body>
